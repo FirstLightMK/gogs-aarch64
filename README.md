@@ -4,6 +4,8 @@
 
 ![Repository](https://gogs.io/img/screenshots/2.png)
 
+###Caution: This is **unofficial** version of gogs for aarch64 devices!
+
 ### ⚠️ Important notes ⚠️
 
 - The demo site [try.gogs.io](https://try.gogs.io) is running `master` branch. Please do **NOT** put your important data on the site.
